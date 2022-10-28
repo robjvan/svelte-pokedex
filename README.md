@@ -4,7 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/robjvan/svelte-pokedex/master/thumbnails/thumbnail1.png" width=300 alt="Thumbnail 1">
 <img src="https://raw.githubusercontent.com/robjvan/svelte-pokedex/master/thumbnails/thumbnail2.png" width=300 alt="Thumbnail 2">
-<img src="https://raw.githubusercontent.com/robjvan/svelte-pokedex/master/thumbnails/thumbnail3.png" width=300 alt="Thumbnail 2">
  
 ## Developing
 
