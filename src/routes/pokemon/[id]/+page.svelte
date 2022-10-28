@@ -2,7 +2,6 @@
 	/** @type {import('./$types').PageData} */
 	export let data;
 	const pokeman = data.props.pokeman;
-	console.log(pokeman);
 </script>
 
 <h1 class="text-4xl text-center my-8 uppercase">{pokeman.name}</h1>
